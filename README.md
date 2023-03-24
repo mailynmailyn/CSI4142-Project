@@ -1,10 +1,6 @@
 # CSI4142-Project
 
-Mai Lyn Puittinen
-
-Joanna Wang
-
-Shreya Langhe 
+Mai Lyn Puittinen, Joanna Wang, Shreya Langhe 
 
 ## Wildlife_Incidents_Database.ipynb
 Using pandas/geopandas to clean Wildlife Incident Datasets
