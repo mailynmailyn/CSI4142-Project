@@ -1,7 +1,9 @@
 # CSI4142-Project
 
 Mai Lyn Puittinen
-Joanna Wang 
+
+Joanna Wang
+
 Shreya Langhe 
 
 ## Wildlife_Incidents_Database.ipynb
