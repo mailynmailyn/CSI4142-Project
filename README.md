@@ -2,8 +2,8 @@
 
 ## Wildlife_Incidents_Database.ipynb
 Using pandas/geopandas to clean Wildlife Incident Datasets
-Combined incidents.csv, staff.csv, responses.csv to produce five separate tables that are incorporated into a DBMS.
--Fact Table
+Combined incidents.csv, staff.csv, responses.csv to produce five separate tables that are incorporated into a DBMS. /n
+-Fact Table /n
 -Incident Table
 -Staff Table
 -Animal Table
