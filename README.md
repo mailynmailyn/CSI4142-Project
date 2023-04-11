@@ -11,3 +11,6 @@ Requires pandas, geopandas, numpy and python installs
 ## SQL File
 SQL code run in pgAdmin using postgresql to produce database
 
+## Jasper Bears Map
+Map of Bear Incidents by type (Black and Grizzly) in Jasper National Park of Canada. Open index.html via Google Chrome after downloading the Jasper Bears folder. 
+
